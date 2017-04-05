@@ -3,7 +3,6 @@ require "set"
 
 module Beatpath
   class VoteMatrix < ::Matrix
-    # why?
     public :"[]=", :set_element, :set_component
     attr_accessor :vote_candidates
 
