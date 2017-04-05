@@ -1,4 +1,4 @@
-# Beatpath
+# Beatpath [![Build Status](https://travis-ci.org/nickelser/beatpath.svg?branch=master)](https://travis-ci.org/nickelser/beatpath) [![Gem Version](https://badge.fury.io/rb/beatpath.svg)](http://badge.fury.io/rb/beatpath)
 
 Ruby implementation of the Schulze voting method (https://en.wikipedia.org/wiki/Schulze_method).
 
